@@ -1,0 +1,7 @@
+const STANDARD = "STANDARD";
+const ADMIN = "ADMIN";
+const MODERATOR = "MODERATOR";
+
+exports.ADMIN = ADMIN;
+exports.STANDARD = STANDARD;
+exports.MODERATOR = MODERATOR;
